@@ -11,7 +11,7 @@ table {
   
 }
 
-td, th, td {
+td, th {
   border: 1px solid #dddd;
   text-align: left;
   padding: 8px;
@@ -19,7 +19,7 @@ td, th, td {
   
 }
 
-tr{
+td{
 background-color:white;}
 
 </style>
