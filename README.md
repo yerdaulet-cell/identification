@@ -36,13 +36,14 @@ tr:nth-child(even) {
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Valeriy_Konovalyuk_3x4.jpg" width="125" height="125"></td>
     
     <td><a><small>тегі</small></a><br>
-    <a>Жұмабай<a/><br>
-    <a><small>тегі</small></a><br>
-    <a>Ердәулет</a><br> 
-    <a><small>тегі</small></a><br>
-    <a>Сержанұлы</a><br>
-    <a><small>тегі</small></a><br>
-    <a>29.01.2001</a></td>
+      <a>Жұмабай<a/><br>
+      <a><small>тегі</small></a><br>
+      <a>Ердәулет</a><br> 
+      <a><small>тегі</small></a><br>
+      <a>Сержанұлы</a><br>
+      <a><small>тегі</small></a><br>
+      <a>29.01.2001</a>
+     </td>
     <td></td>
   </tr>
   <tr>
