@@ -17,7 +17,8 @@ td, th {
   padding: 8px;
   background-color:#dddd;
 }
-
+tr{
+background-color:white;}
 
 </style>
 </head>
