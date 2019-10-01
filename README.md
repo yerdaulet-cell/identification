@@ -11,12 +11,14 @@ table {
   
 }
 
-td, th {
+td, th, td {
   border: 1px solid #dddd;
   text-align: left;
   padding: 8px;
   background-color:#dddd;
+  
 }
+
 tr{
 background-color:white;}
 
