@@ -12,13 +12,13 @@ table {
 }
 
 td, th {
-  border: 1px solid ddd;
+  border: 1px;
   text-align: left;
   padding: 8px;
 }
 
 tr:nth-child(even) {
-  background-color: dd;
+
 }
 </style>
 </head>
