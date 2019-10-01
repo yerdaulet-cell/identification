@@ -34,8 +34,6 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Valeriy_Konovalyuk_3x4.jpg" width="125" height="125"></td>
-    
-   <tr>
     <td><a><small>тегі</small></a><br>
       <a>Жұмабай<a/><br>
       <a><small>тегі</small></a><br>
