@@ -3,7 +3,12 @@
 <html>
 <head>
 <style>
-
+.cities {
+  background-color: #dddd;
+  color: black;
+  margin: 20px;
+  padding: 25px;
+}
 table {
   font-family: , sans-serif;
   border-collapse: collapse;
@@ -15,13 +20,11 @@ td, th {
   border: 1px solid #dddd;
   text-align: left;
   padding: 8px;
-  
-  
 }
 
-td{
-background-color:white;}
-
+tr:nth-child(even) {
+  background-color: #dddd;
+}
 </style>
 </head>
 <body>
