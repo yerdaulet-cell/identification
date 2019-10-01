@@ -12,14 +12,12 @@ table {
 }
 
 td, th {
-  border: 1px;
+  border: 1px solid #dddd;
   text-align: left;
   padding: 8px;
 }
 
-tr:nth-child(even) {
-background-color:white;
-}
+
 </style>
 </head>
 <body>
@@ -35,14 +33,13 @@ background-color:white;
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Valeriy_Konovalyuk_3x4.jpg" width="125" height="125"></td>
     <td><a><small>тегі</small></a><br>
-      <a>Жұмабай<a/><br>
-      <a><small>тегі</small></a><br>
-      <a>Ердәулет</a><br> 
-      <a><small>тегі</small></a><br>
-      <a>Сержанұлы</a><br>
-      <a><small>тегі</small></a><br>
-      <a>29.01.2001</a>
-     </td>
+    <a>Жұмабай<a/><br>
+    <a><small>тегі</small></a><br>
+    <a>Ердәулет</a><br> 
+    <a><small>тегі</small></a><br>
+    <a>Сержанұлы</a><br>
+    <a><small>тегі</small></a><br>
+    <a>29.01.2001</a></td>
     <td></td>
   </tr>
   <tr>
@@ -51,7 +48,7 @@ background-color:white;
     <td><img src="https://avatars.mds.yandex.net/get-zen_doc/16074/pub_5a645af8168a9111b361e9f5_5a645b1b482677d5af74506e/scale_1200" height="45"></td>
   </tr>
 </div> 
-</table>
+
 
 </body>
 </html>
