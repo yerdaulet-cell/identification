@@ -12,8 +12,8 @@ table {
 }
 
 td, th {
-  border: 1px solid #dddd;
-  text-align: left;
+  border: 1px solid ddd;
+  text-align:left;
   padding: 8px;
 }
 
@@ -27,7 +27,7 @@ td, th {
 <table>
   <tr>
     <th>Қазақстан Республикасы жеке куәлік</th>
-    <th><img src="http://www.akorda.kz/upload/media/files/c7a888ef1b4daeca68627d9e8e9650ad.png" alt="Trulli" width="100" height="75"></th>
+    <th><img src="http://www.akorda.kz/upload/media/files/c7a888ef1b4daeca68627d9e8e9650ad.png" alt="Trulli" width="100" height="75</th>
     <th>Республика казахстан удостворение личности</th>
   </tr>
   <tr>
