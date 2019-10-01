@@ -12,8 +12,8 @@ table {
 }
 
 td, th {
-  border: 1px solid ddd;
-  text-align:left;
+  border: 1px solid #dddd;
+  text-align: left;
   padding: 8px;
 }
 
@@ -32,7 +32,8 @@ td, th {
   </tr>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Valeriy_Konovalyuk_3x4.jpg" width="125" height="125"></td>
-    <td><a><small>тегі</small></a><br>
+    
+   <tr><td><a><small>тегі</small></a><br>
     <a>Жұмабай<a/><br>
     <a><small>тегі</small></a><br>
     <a>Ердәулет</a><br> 
