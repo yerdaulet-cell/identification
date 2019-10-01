@@ -51,7 +51,7 @@ tr:nth-child(even) {
     <td><img src="https://avatars.mds.yandex.net/get-zen_doc/16074/pub_5a645af8168a9111b361e9f5_5a645b1b482677d5af74506e/scale_1200" height="45"></td>
   </tr>
 </div> 
-
+</table>
 
 </body>
 </html>
